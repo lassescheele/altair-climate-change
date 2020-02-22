@@ -3,9 +3,9 @@
 **/data/processed/*
 !**/data/processed/.gitkeep
 **/data/tiles/*
-**/plots/*
 !**/plots/.gitkeep
 .Rhistory
 .Rproj.user
 *.Rproj
 *.history
+.DS_Store
