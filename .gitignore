@@ -3,6 +3,7 @@
 **/data/processed/*
 !**/data/processed/.gitkeep
 **/data/tiles/*
+**/plots/*
 !**/plots/.gitkeep
 .Rhistory
 .Rproj.user
