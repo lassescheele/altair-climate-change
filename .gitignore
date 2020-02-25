@@ -5,6 +5,7 @@
 **/data/tiles/*
 **/plots/*
 !**/plots/.gitkeep
+**/.ipynb_checkpoints/*
 .Rhistory
 .Rproj.user
 *.Rproj
