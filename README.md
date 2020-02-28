@@ -1,4 +1,4 @@
-# Climate Change with [#Altair](https://altair-viz.github.io/)
+# Making climate change visible with [#Altair](https://altair-viz.github.io/)
 
 This is a project for creating an interactive geospatial dataviz to visualize climate change as a global phenomenon. The dashboard is made entirely with [#Altair](https://altair-viz.github.io/) and shows the average monthly and yearly temperatures compared to the reference period 1961-1990 for selected countries. It has three linked components:
 
