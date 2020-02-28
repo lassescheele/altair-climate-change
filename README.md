@@ -11,4 +11,4 @@ This is a project for creating an interactive geospatial dataviz to visualize cl
   [dashboard]: https://lassescheele.github.io/altair-climate-change/countries_centroids_tavg_1850-2013_ref1961-1990.html
   [image]: plots/countries_centroids_tavg_1850-2013_ref1961-1990.png "Dashboard for Germany"
 
-The data comes from [Berkeley Earth](http://berkeleyearth.org/) and is made available via [Kaggle](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data).
+The data comes from [Berkeley Earth](http://berkeleyearth.org/) and was downloaded via [Kaggle](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data).

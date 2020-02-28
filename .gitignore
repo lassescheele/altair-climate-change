@@ -2,7 +2,7 @@
 !**/data/raw/.gitkeep
 **/data/processed/*
 !**/data/processed/.gitkeep
-**/data/tiles/*
+**/scripts/old/*
 !**/plots/.gitkeep
 **/.ipynb_checkpoints/*
 .Rhistory
@@ -10,3 +10,4 @@
 *.Rproj
 *.history
 .DS_Store
+notes.txt
